@@ -1,0 +1,13 @@
+## created by @opbi/ncm
+---
+component:
+  type: serverless
+  name: ncm-preset-serverless
+  description: the config preset for [serverless] used by ncm
+  keywords: standard, preset, ncm, config, template
+  private: false
+owner:
+  type: organisation
+  github: opbi
+  name: OPBI
+  email: engineering@opbi.org
